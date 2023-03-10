@@ -1,4 +1,4 @@
-package ProgOrienObjt.poo7GetterSetter;
+package ProgOrienObjt.poo6GetterSetter;
 
 public class MainGettetSetter {
     public static void main(String[] args) {
@@ -9,6 +9,9 @@ public class MainGettetSetter {
         System.out.println("La edad es: " + obj1.getEdad());
         System.out.println("El nombre es: " + obj1.getNombre());
 
+        /*setEdad establece el valor del parámetro
+        getEdad pide el valor del return
+         */
 
     }
 

@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo4Constructor;
+package ProgOrienObjt.poo4Constructor;
 
 public class MainConstructor {
     public static void main(String[] args) {

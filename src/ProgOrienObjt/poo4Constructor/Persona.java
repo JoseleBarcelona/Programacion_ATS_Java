@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo4Constructor;
+package ProgOrienObjt.poo4Constructor;
 
 public class Persona {
     //Atributos

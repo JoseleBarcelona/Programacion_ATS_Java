@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo5Sobrecarga;
+package ProgOrienObjt.poo5Sobrecarga;
 
 public class MainSobrecarga {
     public static void main(String[] args) {

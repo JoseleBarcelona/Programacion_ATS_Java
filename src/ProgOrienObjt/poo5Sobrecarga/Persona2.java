@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo5Sobrecarga;
+package ProgOrienObjt.poo5Sobrecarga;
 
 public class Persona2 {
     //Atributos globales

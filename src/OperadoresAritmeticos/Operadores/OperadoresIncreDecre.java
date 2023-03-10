@@ -1,4 +1,4 @@
-package OperadoresAritmeticos;
+package OperadoresAritmeticos.Operadores;
 
 public class OperadoresIncreDecre {
     public static void main(String[] args) {

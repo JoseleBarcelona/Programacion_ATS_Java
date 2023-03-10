@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo3Return.Return2;
+package ProgOrienObjt.poo3Return.Return2;
 
 public class Operacion4 {
     public int sumar(int numero1, int numero2) {

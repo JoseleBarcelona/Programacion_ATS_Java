@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo1;
+package ProgOrienObjt.poo1;
 //Aprender a crear objetos e imprimir con un método main, dentro de la misma clase.
 public class Coche {
     //Atributos

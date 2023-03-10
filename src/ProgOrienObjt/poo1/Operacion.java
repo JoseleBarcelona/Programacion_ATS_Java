@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo1;
+package ProgOrienObjt.poo1;
 //Crear métodos que van a ser invocados en otra clase a través de un objeto.
 import javax.swing.*;
 

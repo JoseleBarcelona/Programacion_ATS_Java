@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo1;
+package ProgOrienObjt.poo1;
 
 //Crear un objeto e invocar métodos de otra Clase.
 public class Main {

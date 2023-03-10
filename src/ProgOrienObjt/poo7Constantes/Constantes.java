@@ -1,4 +1,4 @@
-package ProgOrienObjt.Constantes;
+package ProgOrienObjt.poo7Constantes;
 
 public class Constantes {
     /*

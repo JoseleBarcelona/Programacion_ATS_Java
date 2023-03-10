@@ -1,4 +1,4 @@
-package ClasesYObjetos.poo2;
+package ProgOrienObjt.poo2;
 
 import javax.swing.*;
 
